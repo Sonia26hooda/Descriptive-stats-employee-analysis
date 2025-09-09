@@ -84,7 +84,9 @@ jupyter notebook Statistics_Case_Study_Project.ipynb
 * Visual patterns observed between compensation and ratings.
 
 📌 Author
-👩‍💻 Sonia Dalal – Data Analyst in progress | Passionate about Data Visualization & Statistics
+👩‍💻 Sonia Dalal  [https://www.linkedin.com/in/sonia-dalal-38313615/]
+
+– Data Analyst in progress | Passionate about Data Visualization & Statistics
 
 
 
