@@ -17,7 +17,7 @@ tools:
 files:
   - Statistics_Case_Study_Project.ipynb
   - Employee Dataset.csv
-license: MIT
+
 repository: https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis/
 tags:
   - statistics
@@ -64,26 +64,28 @@ The study includes:
    ```bash
    git clone https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis
    cd employee-statistics-case-study
-Install required dependencies:
-
-bash
-Copy code
+   ```
+   
+2. Install required dependencies:
+```
 pip install pandas numpy matplotlib seaborn
-Open the notebook:
+```
 
-bash
-Copy code
+3. Open the notebook:
+```
 jupyter notebook Statistics_Case_Study_Project.ipynb
+```
+
 📊 Key Insights
-Distribution of employee ratings and compensation levels.
+* Distribution of employee ratings and compensation levels.
 
-Subsetting employees based on performance thresholds.
+* Subsetting employees based on performance thresholds.
 
-Visual patterns observed between compensation and ratings.
+* Visual patterns observed between compensation and ratings.
 
 📌 Author
 👩‍💻 Sonia Dalal – Data Analyst in progress | Passionate about Data Visualization & Statistics
 
-yaml
+
 
 ---
