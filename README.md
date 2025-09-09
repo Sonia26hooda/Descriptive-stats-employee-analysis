@@ -62,7 +62,7 @@ The study includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-statistics-case-study.git
+   git clone https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis/
    cd employee-statistics-case-study
 Install required dependencies:
 
