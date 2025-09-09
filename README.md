@@ -87,9 +87,3 @@ Visual patterns observed between compensation and ratings.
 yaml
 
 ---
-
-
-
-
-
-Ask ChatGPT
