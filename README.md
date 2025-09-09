@@ -18,7 +18,7 @@ files:
   - Statistics_Case_Study_Project.ipynb
   - Employee Dataset.csv
 license: MIT
-repository: https://github.com/your-username/employee-statistics-case-study
+repository: https://github.com/Descriptive-stats-employee-analysis/
 tags:
   - statistics
   - data-analysis
@@ -62,7 +62,7 @@ The study includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis/
+   git clone https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis
    cd employee-statistics-case-study
 Install required dependencies:
 
