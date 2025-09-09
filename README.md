@@ -18,7 +18,7 @@ files:
   - Statistics_Case_Study_Project.ipynb
   - Employee Dataset.csv
 license: MIT
-repository: https://github.com/Descriptive-stats-employee-analysis/
+repository: https://github.com/Sonia26hooda/Descriptive-stats-employee-analysis/
 tags:
   - statistics
   - data-analysis
